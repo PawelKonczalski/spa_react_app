@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51de160c-fc64-47a8-bfbb-d78e7098d79d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/style/ContactPage.css" afterDir="false" />
+    <list default="true" id="51de160c-fc64-47a8-bfbb-d78e7098d79d" name="Default Changelist" comment="redirect to admin panel after click">
+      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ContactPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AdminPage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568998307232</updated>
-      <workItem from="1568998308350" duration="8176000" />
+      <workItem from="1568998308350" duration="12061000" />
     </task>
     <task id="LOCAL-00001" summary="main component">
       <created>1569001021695</created>
@@ -99,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569005296328</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="contact page and protection against loss of messages from the form">
+      <created>1569006673437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569006673437</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +130,7 @@
     <MESSAGE value="header" />
     <MESSAGE value="routing on page" />
     <MESSAGE value="article on starting page" />
-    <option name="LAST_COMMIT_MESSAGE" value="article on starting page" />
+    <MESSAGE value="contact page and protection against loss of messages from the form" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact page and protection against loss of messages from the form" />
   </component>
 </project>
