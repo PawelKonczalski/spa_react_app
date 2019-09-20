@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51de160c-fc64-47a8-bfbb-d78e7098d79d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/ProductsListPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/ProductsListPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/Footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ErrorPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ErrorPage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/style" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -40,6 +38,7 @@
       <recent name="D:\Projekty_Web\REACT_APP\spa_react_app\src\style" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projekty_Web\REACT_APP\spa_react_app\src\style" />
       <recent name="D:\Projekty_Web\REACT_APP\spa_react_app\src" />
     </key>
   </component>
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568998307232</updated>
-      <workItem from="1568998308350" duration="13988000" />
+      <workItem from="1568998308350" duration="15424000" />
     </task>
     <task id="LOCAL-00001" summary="main component">
       <created>1569001021695</created>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569010573296</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="list of product and sub page for each product">
+      <created>1569012557259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569012557259</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,7 @@
     <MESSAGE value="article on starting page" />
     <MESSAGE value="contact page and protection against loss of messages from the form" />
     <MESSAGE value="redirect to admin panel after click" />
-    <option name="LAST_COMMIT_MESSAGE" value="redirect to admin panel after click" />
+    <MESSAGE value="list of product and sub page for each product" />
+    <option name="LAST_COMMIT_MESSAGE" value="list of product and sub page for each product" />
   </component>
 </project>
